@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-current-page-and-child-pages",
+    "description": "Front-end-plugin som returnerar aktuell sida + alla barn-sidor",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
