@@ -6,9 +6,9 @@
 	/*
 	Plugin Name: Region Halland Current Page and Child Pages
 	Description: Front-end-plugin som returnerar aktuell sida + alla barn-sidor
-	Version: 1.0.0
+	Version: 1.1.0
 	Author: Roland Hydén
-	License: MIT
+	License: GPL-3.0
 	Text Domain: regionhalland
 	*/
 
